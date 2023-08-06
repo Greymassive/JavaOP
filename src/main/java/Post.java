@@ -4,6 +4,6 @@ public class Post {
     public String patronymic;
     public String passport;
     public String phone;
-    public Boolean subscription;
+    public boolean subscription;
     public FormDate birthday;
 }
